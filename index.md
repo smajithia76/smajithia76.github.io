@@ -82,7 +82,7 @@ information in any way, including, but not limited to, collecting, storing, dele
 information, all of which activities will take place in the United States. If you reside outside the United States your
 information will be transferred, processed and stored there under United States privacy standards.
 
-### Contact us
+### Contact
 
 If you have any questions regarding privacy while using the Application, or have questions about our practices, please
 contact the developer at shreyas.maijithia@gmail.com.
